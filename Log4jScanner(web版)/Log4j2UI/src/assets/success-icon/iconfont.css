@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3334045 */
+  src: url('iconfont.woff2?t=1650091896609') format('woff2'),
+       url('iconfont.woff?t=1650091896609') format('woff'),
+       url('iconfont.ttf?t=1650091896609') format('truetype');
+}
+
+.iconfont,[class^="el-icon-result"],[class*=" el-icon-result"] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chenggong:before {
+  content: "\e671";
+}
+

